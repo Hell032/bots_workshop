@@ -1,3 +1,4 @@
+#!/bin/bash 
 
 ##update everything
 RUN apt update

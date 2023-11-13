@@ -1,3 +1,4 @@
+#!/bin/bash 
 
 echo -e "\n\ninstall splunk enterprise -> change password for accessing the web gui"
 #password must be at least 8 chars otherwise splunk throws an error

@@ -1,3 +1,6 @@
+#!/bin/bash 
+
+
 echo -e "\n\nexecute in container shell"
 sudo -i
 
